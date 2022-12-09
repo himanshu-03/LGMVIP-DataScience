@@ -21,10 +21,10 @@ The columns in this dataset are:
 
 ## 👀 Screenshots
 
-<img src = "/assets/1.png">
-<img src = "/assets/2.png">
-<img src = "/assets/3.png">
-<img src = "/assets/4.png">
+<img src = "TASK1_IRIS_Flower_Classification/assets/1.png">
+<img src = "TASK1_IRIS_Flower_Classification/assets/2.png">
+<img src = "TASK1_IRIS_Flower_Classification/assets/3.png">
+<img src = "TASK1_IRIS_Flower_Classification/assets/4.png">
 
 <br>
 
