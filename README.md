@@ -19,17 +19,6 @@ The columns in this dataset are:
 - `Species`
 <br>
 
-## 📓 Overview
-
-| Machine Learning Models Applied            | Accuracy |
-| ----------------- | ------------------------------------------------------------------ |
-| Random Forest | 94.70% |
-| Logistic Regression | 94.70% |
-| Naive Bayes Gaussian | 94.70% |
-| Decision Tree | 92.10% |
-| K-Nearest Neighbour | 94.70% |
-
-<br>
 
 ## 🔗 Links of Task 1
 <a href='https://colab.research.google.com/drive/1vxBD-3onBpIuo83xGhOl9Z07JsKWYK2i?usp=sharing' target="_blank"><img alt='Google Colab' src='https://img.shields.io/badge/Google_Colab-100000?style=for-the-badge&logo=Google Colab&logoColor=FFA200&labelColor=000000&color=FFFFFF'/></a>
