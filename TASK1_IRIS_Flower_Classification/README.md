@@ -41,7 +41,7 @@ The columns in this dataset are:
 <br>
 
 ## 🔗 Links of Task 1
-<a href='https://colab.research.google.com/drive/1vxBD-3onBpIuo83xGhOl9Z07JsKWYK2i?usp=sharing' target="_blank"><img alt='Google Colab' src='https://img.shields.io/badge/Google_Colab-100000?style=for-the-badge&logo=Google Colab&logoColor=FFA200&labelColor=000000&color=FFFFFF'/></a>
+<a href='https://colab.research.google.com/drive/1_zd_nP7W114xcwTJQHP3xiztpCNkhg6e?usp=sharing' target="_blank"><img alt='Google Colab' src='https://img.shields.io/badge/Google_Colab-100000?style=for-the-badge&logo=Google Colab&logoColor=FFA200&labelColor=000000&color=FFFFFF'/></a>
 
 <br>
 
