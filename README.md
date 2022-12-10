@@ -1,11 +1,12 @@
 # LGMVIP - Data Science
-## 📌 Task 1 - Customer Churn Prediction
+## 📌 Task 1 - IRIS Flower Classification
 
 The Iris dataset was used in R.A. Fisher's classic 1936 paper, The Use of Multiple Measurements in Taxonomic Problems, and can also be found on the UCI Machine Learning Repository.
 
 It includes three iris species with 50 samples each as well as some properties about each flower. One flower species is linearly separable from the other two, but the other two are not linearly separable from each other.
 
 The columns in this dataset are: `Id`, `SepalLengthCm`, `SepalWidthCm`, `PetalLengthCm`, `PetalWidthCm`, `Species`
+
 <br>
 
 
@@ -14,6 +15,20 @@ The columns in this dataset are: `Id`, `SepalLengthCm`, `SepalWidthCm`, `PetalLe
 
 <br>
 
+---
+<br>
+
+## 📌 Task 2 - Stock Market Predicition and Forecasting using LSTM
+
+We are given TATAGLOBAL stock price from `21 July 2011` to `28 September 2019`. The task is to predict the trend of the stock price for the `year 2017`. Note that, based on National Stock Exchange (NSE), the future variations of stock price are independent of the past. So, it is impossible to predict the exact stock price, but possible to predict and capture the upward and downward trends.
+
+<br>
+
+
+## 🔗 Links of Task 2
+<a href='https://colab.research.google.com/drive/1vxBD-3onBpIuo83xGhOl9Z07JsKWYK2i?usp=sharing' target="_blank"><img alt='Google Colab' src='https://img.shields.io/badge/Google_Colab-100000?style=for-the-badge&logo=Google Colab&logoColor=FFA200&labelColor=000000&color=FFFFFF'/></a>
+
+<br>
 
 ## 🪪 License
 
