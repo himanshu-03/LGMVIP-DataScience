@@ -28,6 +28,8 @@ We are given TATAGLOBAL stock price from `21 July 2011` to `28 September 2019`. 
 
 ## 🔗 Links of Task 2
 <a href='https://colab.research.google.com/drive/1vxBD-3onBpIuo83xGhOl9Z07JsKWYK2i?usp=sharing' target="_blank"><img alt='Google Colab' src='https://img.shields.io/badge/Google_Colab-100000?style=for-the-badge&logo=Google Colab&logoColor=FFA200&labelColor=000000&color=FFFFFF'/></a>
+<a href='https://www.kaggle.com/code/hiimanshuagarwal/stock-market-price-prediction-using-lstm' target="_blank"><img alt='Kaggle' src='https://img.shields.io/badge/KAGGLE-100000?style=for-the-badge&logo=Kaggle&logoColor=20beff&labelColor=black&color=FFFFFF'/></a>
+
 
 <br>
 
