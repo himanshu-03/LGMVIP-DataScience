@@ -25,7 +25,6 @@ Terrorist attacks have become a serious source of risk affecting the security of
 <br>
 
 
-<br>
 
 
 ## 🪪 License
