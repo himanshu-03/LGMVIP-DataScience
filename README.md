@@ -11,13 +11,11 @@ The columns in this dataset are: `Id`, `SepalLengthCm`, `SepalWidthCm`, `PetalLe
 <br>
 
 
-## 🔗 Links of Task 1
-<a href='https://colab.research.google.com/drive/1vxBD-3onBpIuo83xGhOl9Z07JsKWYK2i?usp=sharing' target="_blank"><img alt='Google Colab' src='https://img.shields.io/badge/Google_Colab-100000?style=for-the-badge&logo=Google Colab&logoColor=FFA200&labelColor=000000&color=FFFFFF'/></a>
+## 🔗 Links of Task 1: <a href='https://colab.research.google.com/drive/1vxBD-3onBpIuo83xGhOl9Z07JsKWYK2i?usp=sharing' target="_blank"><img alt='Google Colab' src='https://img.shields.io/badge/Google_Colab-100000?style=for-the-badge&logo=Google Colab&logoColor=FFA200&labelColor=000000&color=FFFFFF'/></a>
 
 <br>
 
----
-<br>
+
 
 ## 📌 Task 2 - Stock Market Predicition and Forecasting using LSTM
 
@@ -26,12 +24,19 @@ We are given TATAGLOBAL stock price from `21 July 2011` to `28 September 2019`. 
 <br>
 
 
-## 🔗 Links of Task 2
-<a href='https://colab.research.google.com/drive/1vxBD-3onBpIuo83xGhOl9Z07JsKWYK2i?usp=sharing' target="_blank"><img alt='Google Colab' src='https://img.shields.io/badge/Google_Colab-100000?style=for-the-badge&logo=Google Colab&logoColor=FFA200&labelColor=000000&color=FFFFFF'/></a>
-<a href='https://www.kaggle.com/code/hiimanshuagarwal/stock-market-price-prediction-using-lstm' target="_blank"><img alt='Kaggle' src='https://img.shields.io/badge/KAGGLE-100000?style=for-the-badge&logo=Kaggle&logoColor=20beff&labelColor=black&color=FFFFFF'/></a>
+## 🔗 Links of Task 2: <a href='https://colab.research.google.com/drive/1vxBD-3onBpIuo83xGhOl9Z07JsKWYK2i?usp=sharing' target="_blank"><img alt='Google Colab' src='https://img.shields.io/badge/Google_Colab-100000?style=for-the-badge&logo=Google Colab&logoColor=FFA200&labelColor=000000&color=FFFFFF'/></a>     <a href='https://www.kaggle.com/code/hiimanshuagarwal/stock-market-price-prediction-using-lstm' target="_blank"><img alt='Kaggle' src='https://img.shields.io/badge/KAGGLE-100000?style=for-the-badge&logo=Kaggle&logoColor=20beff&labelColor=black&color=FFFFFF'/></a>
 
 
 <br>
+
+
+
+## 📌 Task 3 - Exploratory Data Analysis on Dataset Terrorism
+
+Terrorist attacks have become a serious source of risk affecting the security of the international community. Using the `Global Terrorism Database (GTD)`, in order to quantitatively study past terrorist attacks and their temporal and spatial evolution the analytic hierarchy process (AHP) was used to classify the degree of damage from terrorist attacks. The various factors influencing terrorist attacks were extracted and represented in three dimensions.
+
+<br>
+
 
 ## 🪪 License
 
