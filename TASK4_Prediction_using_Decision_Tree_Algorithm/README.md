@@ -32,6 +32,7 @@ The columns in this dataset are:
 ## 📓 Overview
 
 > Accuracy Score: 1.0
+
 > Decision Tree
 
 <img src = "/TASK4_Prediction_using_Decision_Tree_Algorithm/assets/output.png">
