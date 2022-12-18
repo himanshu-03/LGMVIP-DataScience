@@ -1,6 +1,8 @@
 # LGMVIP - Data Science Internship
 
-## 📌 Task 1 - IRIS Flower Classification
+<details>
+<summary><h2>📌 Task 1 - IRIS Flower Classification<h2></summary>
+
 
 The Iris dataset was used in R.A. Fisher's classic 1936 paper, The Use of Multiple Measurements in Taxonomic Problems, and can also be found on the UCI Machine Learning Repository.
 
@@ -14,10 +16,10 @@ The columns in this dataset are: `Id`, `SepalLengthCm`, `SepalWidthCm`, `PetalLe
 ## 🔗 Links of Task 1: <a href='https://colab.research.google.com/drive/1vxBD-3onBpIuo83xGhOl9Z07JsKWYK2i?usp=sharing' target="_blank"><img alt='Google Colab' src='https://img.shields.io/badge/Google_Colab-100000?style=for-the-badge&logo=Google Colab&logoColor=FFA200&labelColor=000000&color=FFFFFF'/></a>
 
 <br>
+</details>
 
-
-
-## 📌 Task 2 - Stock Market Predicition and Forecasting using LSTM
+<details>
+<summary><h2>📌 Task 2 - Stock Market Predicition and Forecasting using LSTM<h2></summary>
 
 We are given TATAGLOBAL stock price from `21 July 2011` to `28 September 2019`. The task is to predict the trend of the stock price for the `year 2017`. Note that, based on National Stock Exchange (NSE), the future variations of stock price are independent of the past. So, it is impossible to predict the exact stock price, but possible to predict and capture the upward and downward trends.
 
@@ -28,15 +30,29 @@ We are given TATAGLOBAL stock price from `21 July 2011` to `28 September 2019`. 
 
 
 <br>
+</details>
 
-
-
-## 📌 Task 3 - Exploratory Data Analysis on Dataset Terrorism
+<details>
+<summary><h2>📌 Task 3 - Exploratory Data Analysis on Dataset Terrorism<h2></summary>
 
 Terrorist attacks have become a serious source of risk affecting the security of the international community. Using the `Global Terrorism Database (GTD)`, in order to quantitatively study past terrorist attacks and their temporal and spatial evolution the analytic hierarchy process (AHP) was used to classify the degree of damage from terrorist attacks. The various factors influencing terrorist attacks were extracted and represented in three dimensions.
 
 <br>
+</details>
+<details>
+<summary><h2>📌 Task 4 - Prediction using Deicison Tree Algorithm<h2></summary>
+Create the Decision Tree classifier and visualize it graphically. 
 
+The purpose is if we feed any new data to this classifier, it would be able to  predict the right class accordingly.
+
+<br>
+
+
+## 🔗 Links of Task 2: <a href='https://colab.research.google.com/drive/1aQUZCGPKZ2gFqA0MACUKAMYIv_g4k-pj?usp=sharing' target="_blank"><img alt='Google Colab' src='https://img.shields.io/badge/Google_Colab-100000?style=for-the-badge&logo=Google Colab&logoColor=FFA200&labelColor=000000&color=FFFFFF'/></a> 
+Dataset: [Click Here](https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view)
+
+<br>
+</details>
 
 ## 🪪 License
 
